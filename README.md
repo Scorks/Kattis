@@ -1,2 +1,1 @@
 # kattis
-# kattis
